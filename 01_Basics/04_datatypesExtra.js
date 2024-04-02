@@ -20,6 +20,6 @@ let myFun = function(){
     console.log("India")
 }
 console.log(myFun)
-console.log(typeof myFun)
+console.log(typeof myFun)//type will be the -> function
 console.log(typeof arr)
 console.log(typeof a)
