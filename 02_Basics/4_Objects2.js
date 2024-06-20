@@ -52,7 +52,7 @@ console.log(obj2.hasOwnProperty("wife"))
 
 //Object destructureing 
 console.log("\t\t")
-const {id1 : Info} = obj1
+const {id1 : Info} = obj1 // const {(variable name into the object) : (configure the name of the variable as per wish, but it's not mandatory)} = (Object name)
 console.log(Info)
 
 /*JSON Formet
