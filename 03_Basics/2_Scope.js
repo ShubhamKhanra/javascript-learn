@@ -23,9 +23,9 @@ function netflix(val1,val2)
 }
 netflix("The Railway Man","Dark")// seris() dose not call from the outer part of the netflix() function block
 
-//-------------------------------------------------------------------------------------------------------------------------------
+//------------------------------------------------------------SPECIAL CASE-------------------------------------------------------------------
 
-console.log(addone(5))
+console.log(addone(5))// Working
 function addone(value)
 {
     return value+1
