@@ -23,6 +23,6 @@ thisProperty()//there will be verious value and properties will be shown
 function thisPropertyextra()
 {
     let user = "Shubham"
-    console.log(this)
+    console.log(this.user)
 }
 thisPropertyextra()//The output will come "undefined" because will can't use this 
