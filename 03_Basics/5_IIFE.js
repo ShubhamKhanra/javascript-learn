@@ -1,6 +1,6 @@
 // Immediately Invoked Function Expression(IIFE)
 //IIFE use to Avoid pollution from the global scope.
-(function ciem(a,b){        \\named IIFE
+(function ciem(a,b){        //named IIFE
     return console.log(`${b} will come today and ${a} came yesterday`)
 })("Rupam","Snigdhajeet");
 
